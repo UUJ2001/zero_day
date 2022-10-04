@@ -1,1 +1,1 @@
-"**STRONG** _Strong_" 
+"*STRONG* _Strong_" 
